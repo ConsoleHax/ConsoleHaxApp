@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConsoleHax</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Coming Soon</string>
+    <string name="navigation_view_item_1">Home</string>
+    <string name="navigation_view_item_2">Forum</string>
+    <string name="navigation_view_item_3">Twitter</string>
+    <string name="navigation_view_item_4">Facebook</string>
+    <string name="navigation_view_item_5">About</string>
+    <string name="navigation_view_item_6">PlayStationHax</string>
+    <string name="navigation_view_category_1">ConsoleHax Menu</string>
+</resources>
